@@ -1,2 +1,8 @@
-# vue-api-example
-Data is fetched from a public API using fetch. Loading and error states are handled with simple conditional rendering.
+# Vue Simple API Page
+
+A simple Vue page that fetches data from a public API and displays it.
+
+## Features
+- Fetch data from a public API
+- Loading and error handling
+- Simple UI with plain CSS
